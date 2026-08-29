@@ -1,6 +1,5 @@
 ---
 name: update-github-info
-model: gpt-5-mini
 description: Draft website updates for Mona's GitHub Info site from official GitHub sources.
 on:
   workflow_dispatch:
